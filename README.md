@@ -6,12 +6,13 @@
 <a href="https://codepen.io/kironraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kironraj" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kironrajop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kironrajop" height="30" width="40" /></a>
 <a href="https://dribbble.com/kironraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="kironraj" height="30" width="40" /></a>
-</p>
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kironraj)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiron.raj.op@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kironrajop/)
 [![adamalston.com](https://img.shields.io/badge/-KIRONRAJ.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.kironraj.com/)
+
+</p>
+
 
 
 
@@ -38,21 +39,6 @@ Thanks for stopping by! 😁
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h1>-------------------------------------------------------------</h1>
 
 
 
