@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 
 <hr>
 
-[![Spotify](https://<vercel-domain>.vercel.app/api/spotify)](https://open.spotify.com/user/ai74dvljlwneeicatfnrn8q4j)
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ai74dvljlwneeicatfnrn8q4j)
+
 
 
 <hr>
