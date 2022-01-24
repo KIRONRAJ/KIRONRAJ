@@ -29,6 +29,13 @@ Here are some ideas to get you started:
 </div>  
 
 
+<hr>
+
+[![Spotify](https://<vercel-domain>.vercel.app/api/spotify)](https://open.spotify.com/user/ai74dvljlwneeicatfnrn8q4j)
+
+
+<hr>
+
 
 Thanks for stopping by! 😁
 
