@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kironraj</h1>
 
 
+<h1 align="center"> 
+  
+  ![IMG-0837 (2)](https://user-images.githubusercontent.com/87961797/150959944-71aa9a27-2757-41c5-8be0-19a9ed7ec838.png) 
+  
+</h1>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/kironraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kironraj" height="30" width="40" /></a>
