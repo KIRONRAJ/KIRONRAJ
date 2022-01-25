@@ -24,8 +24,8 @@
 
 
 <hr>
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ai74dvljlwneeicatfnrn8q4j)
+<h3>Now Playing..!!</h3>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ai74dvljlwneeicatfnrn8q4j&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ai74dvljlwneeicatfnrn8q4j&redirect=true)
 
 
 
