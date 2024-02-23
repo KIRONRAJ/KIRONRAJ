@@ -16,7 +16,7 @@
 
 [![Telegram](https://img.shields.io/badge/-TELEGRAM-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kironraj)
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kiron.raj.op@gmail.com)
-[![adamalston.com](https://img.shields.io/badge/-KIRONRAJ.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.kironraj.com/)
+[![kironraj.com](https://img.shields.io/badge/-KIRONRAJ.COM-000000?style=for-the-badge&logo=react&logoColor=white)](https://www.kironraj.com/)
 
 </p>
 
