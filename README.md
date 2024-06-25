@@ -33,8 +33,7 @@
 <hr>
 <h3>Now Playing..!! 	:headphones: </h3>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ai74dvljlwneeicatfnrn8q4j&cover_image=true&theme=novatorem&bar_color=ff0000&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=ai74dvljlwneeicatfnrn8q4j&redirect=true)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=ai74dvljlwneeicatfnrn8q4j&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=ai74dvljlwneeicatfnrn8q4j&redirect=true)
 
 
 <hr>
