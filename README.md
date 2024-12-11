@@ -32,6 +32,10 @@
 
 <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3922813" style='border:none;'></iframe>
 
+[![Goals](<img src="https://tryhackme-badges.s3.amazonaws.com/kironraj.png" alt="Your Image Badge" />
+]([Link URL](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3922813))
+
+
 
 <hr>
 <h3>Now Playing..!! 	:headphones: </h3>
