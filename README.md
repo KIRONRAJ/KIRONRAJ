@@ -31,9 +31,7 @@
 <hr>
 
 
-[![Goals](<img src="https://tryhackme-badges.s3.amazonaws.com/kironraj.png" alt="Your Image Badge" />
-
-](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3922813))
+[![Goals](<img src="https://tryhackme-badges.s3.amazonaws.com/kironraj.png" alt="Your Image Badge" /> )
 
 
 
