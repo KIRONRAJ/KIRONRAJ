@@ -31,8 +31,6 @@
 <hr>
 
 
-  ![ Badge](<img src="https://tryhackme-badges.s3.amazonaws.com/kironraj.png" alt="Your Image Badge" />) 
-
 
 
 <hr>
